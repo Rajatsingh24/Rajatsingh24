@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-<img align='right' src='https://github.com/Rajatsingh24/Rajatsingh24/blob/main/gif.gif' width='200'>
+<img align='right' src='https://github.com/Rajatsingh24/Rajatsingh24/blob/main/gif.gif' width='180'>
 
 
 Hi guys, I'm **Rajat Singh**. I am an **AI/ML** enthusiastic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Himachal Pradesh, India. I'm currently persuing my B.Tech. from NIT Hamirpur in Computer Science Engineering.  
